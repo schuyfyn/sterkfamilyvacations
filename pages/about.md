@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html /images/Pier083.JPG %}
-{% include feature/image.html objectid="2017vista" width="75" caption="The Sterk family aboard the Vista Star in 20217" %}
+{% include feature/image.html objectid="2017vista" width="75" caption="The Sterk family aboard the Vista Star in 2017" %}
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
