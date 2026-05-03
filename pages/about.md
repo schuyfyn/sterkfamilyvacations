@@ -9,7 +9,6 @@ credits: true
 ---
 
 {% include feature/image.html objectid="2017vista" width="75" caption="The Sterk family aboard the Vista Star in 2017" %}
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
