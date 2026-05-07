@@ -18,7 +18,7 @@ This is a collection of family vacation pictures designed for my Information Org
 - a folder of JPG images
 - thoughtful editing of the final site's theme and layout
 
-The template repository features 15 images from family vacations to Duluth, MN and Minnesota's Northern Shore, starting in 2006 and going to 2020. 
+The template repository features 15 images from family vacations to Duluth, MN and Minnesota's Northern Shore, starting in 2006 and going to 2020. These vacations have become core memories for my family; times we shared at different ages, visiting and revisting favorite locations and spending quality time together. I built this collection with my family in mind, hoping they would enjoy looking through the memories we shared (or at least this small fraction of them). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
